@@ -10,7 +10,7 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 目前团队核心成员专注于以下方向：
 
-- 🌐 **NestJS + TypeScript 全栈**：构建高效、可扩展的 Node.js 服务（核心成员 @CrimsonSeraph 与 @另一成员）
+- 🌐 **NestJS + TypeScript 全栈**：构建高效、可扩展的 Node.js 服务
 - 🎮 **游戏开发**：Unreal Engine（3D）& Godot（2D）
 - 🖥️ **桌面应用**：Qt 框架（C++ / PyQt）
 - 🐍 **脚本与工具**：Python 自动化 & 数据处理
@@ -51,7 +51,7 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ## 👥 组织成员与贡献者
 
-### 1. 动态贡献者墙（自动更新）
+### 1. 动态贡献者墙
 
 > 来自 [`AshesStudio/OrganizationWeb`](https://github.com/AshesStudio/OrganizationWeb) 仓库的贡献者列表：
 
@@ -59,7 +59,7 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ---
 
-### 2. 组织成员（手动展示）
+### 2. 组织成员
 
 > 组织所有者:
 
