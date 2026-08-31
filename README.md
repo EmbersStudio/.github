@@ -1,12 +1,12 @@
-# ⚙️ AshesStudio · 灰烬工作室
+# ⚙️ EmbersStudio · 余烬工作室
 
-> 始于灰烬，重塑新生。专注于现代 Web 开发与游戏创作的技术工坊。
+> 始于余烬，重塑新生。专注于现代 Web 开发与游戏创作的技术工坊。
 
 ---
 
 ## 🔥 关于我们
 
-**AshesStudio** 是由 CrimsonSeraph 发起，是一个以技术驱动为核心的个人开发者联盟。我们相信优秀的工具和作品源于对技术的热爱与对细节的执着。
+**EmbersStudio** 是由 CrimsonSeraph 发起，是一个以技术驱动为核心的个人开发者联盟。我们相信优秀的工具和作品源于对技术的热爱与对细节的执着。
 
 目前团队由三位核心成员组成，我们致力于：
 
@@ -55,7 +55,7 @@
 
 ## 📦 当前项目
 
-### [OrganizationWeb](https://github.com/AshesStudio/OrganizationWeb)
+### [OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)
 
 > 组织官方网站 / 主站
 
@@ -73,9 +73,9 @@
 
 ### 1. 动态贡献者墙
 
-> 来自 [`AshesStudio/OrganizationWeb`](https://github.com/AshesStudio/OrganizationWeb) 仓库的贡献者列表。
+> 来自 [`EmbersStudio/OrganizationWeb`](https://github.com/EmbersStudio/OrganizationWeb) 仓库的贡献者列表。
 
-[![Contributors](https://contrib.rocks/image?repo=AshesStudio/OrganizationWeb)](https://github.com/AshesStudio/OrganizationWeb/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=EmbersStudio/OrganizationWeb)](https://github.com/EmbersStudio/OrganizationWeb/graphs/contributors)
 
 ---
 
@@ -136,18 +136,18 @@
 
 > 负责人联系方式与组织信息:
 
-| 渠道                   | 地址                                                                     |
-| :--------------------- | :----------------------------------------------------------------------- |
-| 📧 负责人邮箱          | [CrimsonSeraph.QwQ@gmail.com](mailto:CrimsonSeraph.QwQ@gmail.com)        |
-| 🐦 负责人 X（Twitter） | [𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟](https://x.com/CrimSeraph_QwQ)                      |
-| 🌐 官网（未来）        | [ashes-studio.crimsonseraph.top](https://ashes-studio.crimsonseraph.top) |
-| 💬 即时沟通            | 可以通过 GitHub Issues / Discussions 交流                                |
+| 渠道                   | 地址                                                                       |
+| :--------------------- | :------------------------------------------------------------------------- |
+| 📧 负责人邮箱          | [CrimsonSeraph.QwQ@gmail.com](mailto:CrimsonSeraph.QwQ@gmail.com)          |
+| 🐦 负责人 X（Twitter） | [𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟](https://x.com/CrimSeraph_QwQ)                        |
+| 🌐 官网（未来）        | [Embers-studio.crimsonseraph.top](https://embers-studio.crimsonseraph.top) |
+| 💬 即时沟通            | 可以通过 GitHub Issues / Discussions 交流                                  |
 
 ---
 
 ## 🌟 我们的理念
 
-> _“From the ashes, we build.”_
+> _“From the Embers, we build.”_
 
 > 每一次重构都是新生，每一行代码都承载着对品质的追求。
 
@@ -157,4 +157,4 @@
 
 **感谢你的关注！** 如果你喜欢我们的项目，欢迎 ⭐ Star 支持，也欢迎 fork 并参与贡献。
 
-我们一起，让灰烬中绽放出更亮的光。
+我们一起，让余烬中绽放出更亮的光。

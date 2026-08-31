@@ -1,12 +1,12 @@
-# ⚙️ AshesStudio · 灰烬工作室
+# ⚙️ EmbersStudio · 余烬工作室
 
-> 始于灰烬，重塑新生。专注于现代 Web 开发与游戏创作的技术工坊。
+> 始于余烬，重塑新生。专注于现代 Web 开发与游戏创作的技术工坊。
 
 ---
 
 ## 🔥 关于我们
 
-AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈开发与跨平台创意作品。
+EmbersStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈开发与跨平台创意作品。
 
 目前团队核心成员专注于以下方向：
 
@@ -43,9 +43,9 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ## 📦 当前项目
 
-| 项目名称                                                          | 简介                | 技术栈               | 状态      |
-| :---------------------------------------------------------------- | :------------------ | :------------------- | :-------- |
-| [OrganizationWeb](https://github.com/AshesStudio/OrganizationWeb) | 组织官方网站 / 主站 | Next.js + TypeScript | 🚧 开发中 |
+| 项目名称                                                           | 简介                | 技术栈               | 状态      |
+| :----------------------------------------------------------------- | :------------------ | :------------------- | :-------- |
+| [OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb) | 组织官方网站 / 主站 | Next.js + TypeScript | 🚧 开发中 |
 
 ---
 
@@ -53,9 +53,9 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ### 1. 动态贡献者墙
 
-> 来自 [`AshesStudio/OrganizationWeb`](https://github.com/AshesStudio/OrganizationWeb) 仓库的贡献者列表：
+> 来自 [`EmbersStudio/OrganizationWeb`](https://github.com/EmbersStudio/OrganizationWeb) 仓库的贡献者列表：
 
-[![Contributors](https://contrib.rocks/image?repo=AshesStudio/OrganizationWeb)](https://github.com/AshesStudio/OrganizationWeb/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=EmbersStudio/OrganizationWeb)](https://github.com/EmbersStudio/OrganizationWeb/graphs/contributors)
 
 ---
 
@@ -95,8 +95,8 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 - 📧 Gmail：[CrimsonSeraph.QwQ@gmail.com](mailto:CrimsonSeraph.QwQ@gmail.com)
 - 🐦 X（Twitter）：[𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟](https://x.com/CrimSeraph_QwQ)
-- 🌐 官网：[ashes-studio.crimsonseraph.top](https://ashes-studio.crimsonseraph.top)
+- 🌐 官网：[Embers-studio.crimsonseraph.top](https://embers-studio.crimsonseraph.top)
 
 ---
 
-> ✨ _“From the ashes, we build.”_
+> ✨ _“From the Embers, we build.”_
