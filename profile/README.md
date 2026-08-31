@@ -10,7 +10,7 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 目前团队核心成员专注于以下方向：
 
-- 🌐 **NestJS + TypeScript 全栈**：构建高效、可扩展的 Node.js 服务
+- 🌐 **Next.js + TypeScript 全栈**：构建高效、可扩展的 React 全栈应用
 - 🎮 **游戏开发**：Unreal Engine（3D）& Godot（2D）
 - 🖥️ **桌面应用**：Qt 框架（C++ / PyQt）
 - 🐍 **脚本与工具**：Python 自动化 & 数据处理
@@ -22,7 +22,7 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ### 后端与通用语言
 
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -43,9 +43,9 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ## 📦 当前项目
 
-| 项目名称                                                          | 简介                | 技术栈              | 状态      |
-| :---------------------------------------------------------------- | :------------------ | :------------------ | :-------- |
-| [OrganizationWeb](https://github.com/AshesStudio/OrganizationWeb) | 组织官方网站 / 主站 | NestJS + TypeScript | 🚧 开发中 |
+| 项目名称                                                          | 简介                | 技术栈               | 状态      |
+| :---------------------------------------------------------------- | :------------------ | :------------------- | :-------- |
+| [OrganizationWeb](https://github.com/AshesStudio/OrganizationWeb) | 组织官方网站 / 主站 | Next.js + TypeScript | 🚧 开发中 |
 
 ---
 
@@ -59,9 +59,7 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
 
 ---
 
-### 2. 组织成员
-
-> 组织所有者:
+### 2. 核心成员
 
 <table>
   <tr>
@@ -78,6 +76,13 @@ AshesStudio 是一个由 CrimsonSeraph 发起的技术工坊，致力于全栈�
         <sub><b>kinguang3</b></sub>
       </a>
       <br />💻 核心开发
+    </td>
+    <td align="center">
+      <a href="https://github.com/Angvannor">
+        <img src="https://github.com/Angvannor.png" width="80px;" alt="Angvannor"/><br />
+        <sub><b>Angvannor</b></sub>
+      </a>
+      <br />🎨 前端开发
     </td>
   </tr>
 </table>

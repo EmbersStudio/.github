@@ -8,11 +8,12 @@
 
 **AshesStudio** 是由 CrimsonSeraph 发起，是一个以技术驱动为核心的个人开发者联盟。我们相信优秀的工具和作品源于对技术的热爱与对细节的执着。
 
-目前团队由两位核心成员组成，分别擅长全栈 Web 开发、游戏引擎与桌面应用。我们致力于：
+目前团队由三位核心成员组成，我们致力于：
 
-- 探索 **NestJS + TypeScript** 在企业级后端的最佳实践；
+- 探索 **Next.js + TypeScript** 在企业级全栈应用的最佳实践；
 - 利用 **Unreal Engine / Godot** 创造沉浸式互动体验；
-- 通过 **Qt** 与 **Python/C++** 构建高性能跨平台工具。
+- 通过 **Qt** 与 **Python/C++** 构建高性能跨平台工具；
+- 打造优雅、交互流畅的前端界面（Vue 3）。
 
 ---
 
@@ -20,19 +21,20 @@
 
 | 领域        | 技术栈                                |
 | :---------- | :------------------------------------ |
-| 🌐 后端服务 | NestJS, Node.js, TypeScript           |
+| 🌐 全栈开发 | Next.js, Node.js, TypeScript          |
 | 🎮 游戏开发 | Unreal Engine (C++), Godot (GDScript) |
 | 🖥️ 桌面应用 | Qt (C++ / PyQt)                       |
 | 🐍 脚本工具 | Python                                |
 | ⚙️ 底层开发 | C++                                   |
+| 🎨 前端交互 | Vue 3, CSS, JavaScript                |
 
 ---
 
-## 🛠️ 核心技术栈（完整版）
+## 🛠️ 核心技术栈
 
-### 后端与通用语言
+### 全栈与通用语言
 
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -48,8 +50,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
-[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 
 ---
 
@@ -59,7 +59,7 @@
 
 > 组织官方网站 / 主站
 
-- **技术栈**：NestJS + TypeScript
+- **技术栈**：Next.js + TypeScript
 - **功能规划**：
   - 组织介绍与成员展示
   - 项目动态与博客
@@ -97,7 +97,15 @@
         <sub><b>kinguang3</b></sub>
       </a>
       <br />💻 核心开发<br />
-      <span style="font-size:0.9em;">NestJS 主力 / 后端架构</span>
+      <span style="font-size:0.9em;">Next.js</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Angvannor">
+        <img src="https://github.com/Angvannor.png" width="100px;" alt="Angvannor"/><br />
+        <sub><b>Angvannor</b></sub>
+      </a>
+      <br />🎨 前端开发<br />
+      <span style="font-size:0.9em;">Vue 3 · CSS · JavaScript</span>
     </td>
   </tr>
 </table>
