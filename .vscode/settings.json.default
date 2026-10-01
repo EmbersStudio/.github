@@ -56,6 +56,10 @@
     "[godot]": {
         "editor.formatOnSave": false
     },
+    "files.associations": {
+        ".gdlintrc": "yaml",
+        ".gdformatrc": "yaml"
+    },
 
     "gdscript-formatter-linter.lintOnSave": true,
     "gdscript-formatter-linter.formatOnSave": true,

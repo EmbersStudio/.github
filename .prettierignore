@@ -1,0 +1,31 @@
+# GDScript 工具配置
+.gdlintrc
+.gdformatrc
+
+# Godot 工程文件
+*.tscn
+*.tres
+*.godot
+*.import
+*.translation
+
+# Godot 缓存与导出
+.godot/
+export/
+
+# 二进制与资源
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ogg
+*.wav
+*.mp3
+*.ttf
+*.otf
+*.mp4
+
+# 本地与临时
+*.log
+*.tmp

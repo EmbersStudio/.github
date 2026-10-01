@@ -1,19 +1,24 @@
-# .gdlintrc
-
 class-definitions-order:
+  - tools
+  - classnames
+  - extends
+  - docstrings
+  - signals
+  - enums
+  - consts
+  - exports
+  - pub_vars
+  - prv_vars
+  - onready_vars
+  - others
+  - funcs
 
-- tools
-- classnames
-- extends
-- docstrings
-- signals
-- enums
-- consts
-- exports
-- pub_vars
-- prv_vars
-- onready_vars
-- others
-- funcs
-
-max-file-lines: 2000 max-line-length: 120 max-public-methods: 30 function-arguments-number: 8 max-nested-blocks: 4 max-returns: 4 max-branches: 12 max-locals: 15 tab-characters: 4
+max-file-lines: 2000
+max-line-length: 120
+max-public-methods: 30
+function-arguments-number: 8
+max-nested-blocks: 4
+max-returns: 4
+max-branches: 12
+max-locals: 15
+tab-characters: 4
