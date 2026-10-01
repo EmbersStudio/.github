@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "geequlim.godot-tools",
+        "EddieDover.gdscript-formatter-linter",
+        "esbenp.prettier-vscode",
+        "EditorConfig.EditorConfig",
+        "ms-vscode.cpptools"
+    ]
+}

@@ -8,10 +8,18 @@ indent_size = 4
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.{cpp,h,hpp,c,cc}]
-charset = utf-8
+[*.{yml,yaml}]
+indent_size = 2
 
 [*.md]
+trim_trailing_whitespace = false
+
+# Godot 文本文件
+[*.{gd,tscn,tres,godot,import,cfg,gdshader}]
+charset = utf-8
+
+# C++ / CMake
+[*.{cpp,h,hpp,c,cc}]
 charset = utf-8
 
 [CMakeLists.txt]

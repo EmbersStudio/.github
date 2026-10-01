@@ -1,18 +1,46 @@
 # 统一行尾：仓库存储 LF，检出 CRLF
 * text=auto eol=crlf
 
-# 显式声明文本文件编码（便于 diff）
+# Godot 文本文件
+*.gd        text charset=utf-8
+*.tscn      text charset=utf-8
+*.tres      text charset=utf-8
+*.godot     text charset=utf-8
+*.import    text charset=utf-8
+*.cfg       text charset=utf-8
+*.json      text charset=utf-8
+*.md        text charset=utf-8
+*.txt       text charset=utf-8
+*.csv       text charset=utf-8
+*.gdshader  text charset=utf-8
+
+# C++ / CMake
 *.cpp text charset=utf-8
 *.h   text charset=utf-8
 *.hpp text charset=utf-8
-*.md  text charset=utf-8
-*.txt text charset=utf-8
+*.cc  text charset=utf-8
 CMakeLists.txt text charset=utf-8
 *.cmake text charset=utf-8
 
-# 二进制文件（默认已处理，可显式声明）
-*.jpg binary
-*.png binary
-*.gif binary
-*.pdf binary
-*.docx binary
+# 二进制文件
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.webp    binary
+*.ogg     binary
+*.wav     binary
+*.mp3     binary
+*.ttf     binary
+*.otf     binary
+*.mp4     binary
+*.apk     binary
+*.aab     binary
+*.exe     binary
+*.pck     binary
+*.zip     binary
+*.jks     binary
+*.keystore binary
+
+# SVG 是文本
+*.svg text charset=utf-8
